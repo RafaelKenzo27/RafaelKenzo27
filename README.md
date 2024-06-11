@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Atualmente estudante do Alura.
 <!--
 **RafaelKenzo27/RafaelKenzo27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
